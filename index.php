@@ -2,7 +2,7 @@
 include 'connexion_bdd.php';
 include 'translations.php';
 
-$lang = $_GET['lang'] ?? 'en';
+$lang = $_GET['lang'] ?? 'fr';
 
 $query = "SELECT * FROM pokemon";
 if (isset($_GET['search'])) {
