@@ -32,7 +32,7 @@ try {
         $sp_atk = $pokeData->stats[3]->base_stat;
         $sp_def = $pokeData->stats[4]->base_stat;
         $speed = $pokeData->stats[5]->base_stat;
-        $generation = substr($pokeData->species->url, -2, 1); // This might need adjustment depending on API response
+        $generation = 1;
         $image_url = $pokeData->sprites->front_default;
 
         $stmt->bindParam(':id', $id);
