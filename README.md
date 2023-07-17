@@ -1,4 +1,4 @@
-# pokedex
+# Pokedex d'Anis
 Pokédex de la 1ère génération fait en PHP.
 
 - Créer une base de donnée avec le nom de votre choix.
@@ -7,3 +7,5 @@ Pokédex de la 1ère génération fait en PHP.
 - Éxécuter le script 'remplissage.php' puis 'nom_fr.php'.
 
 - Profitez du pokédex de la 1ère génération et des statistiques des pokémons présents !
+
+Le site est disponible ici : kherraf.fr/pokedex
