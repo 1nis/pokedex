@@ -8,4 +8,4 @@ Pokédex de la 1ère génération fait en PHP.
 
 - Profitez du pokédex de la 1ère génération et des statistiques des pokémons présents !
 
-Le site est disponible ici : kherraf.fr/pokedex
+Le site est disponible ici : https://kherraf.fr/pokedex
